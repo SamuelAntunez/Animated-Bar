@@ -6,23 +6,12 @@ Barra animada hecha con HTML
 
 Puedes apreciar la web final a través de [Página Web]https://samuelantunez.github.io/Animated-Bar/)
 
-<img url="img/Screenshot_2.jpg" width="900px;"/>
-
-## Herramientas
-
-Para este proyecto se utilizarón las siguientes herramientas
-
-* [Google Fonts](https://fonts.google.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Scroll Reveal](https://scrollrevealjs.org/)
-
-
 ## Instalación
 
-[Descargamos](https://github.com/SamuelAntunez/bootstrap-web/archive/master.zip) o clonamos el proyecto a través del siguiente comando
+[Descargamos](https://github.com/SamuelAntunez/Animated-Bar/archive/master.zip) o clonamos el proyecto a través del siguiente comando
 
 ```
-git clone https://github.com/SamuelAntunez/bootstrap-web.git
+git clone https://github.com/SamuelAntunez/Animated-Bar.git
 ```
 ## Version
 
